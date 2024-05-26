@@ -1,0 +1,17 @@
+main
+	initialization
+	ATD_init
+	PWM_Init
+	Bluetooth_Init
+		UART1_Init
+		mymsDelay
+	UART1_Read
+	UART1_Data_Ready
+	Park
+	moveForward
+	moveBackward
+	moveLeft
+	moveRight
+	mymsDelay
+	ATD_read
+interrupt
