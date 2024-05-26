@@ -1,4 +1,4 @@
-Pathfinder sharpshooter robot
+Path Finder Sharp Shooter robot
 
 Applying the principles of PWM, ADC serial communication in addition to dealing with multiple motors and different types of sensors all into one fun project.
 
