@@ -31,5 +31,5 @@ Challenges and Solutions
 
 Results
 The final prototype successfully demonstrated all desired functionalities.
-Check out the robot in action in our YouTube video: Path Finder Sharp Shooter Robot
 
+Video https://youtu.be/mEbk1Hov6x0?si=RZ11SYEL0I6_JYmZ
