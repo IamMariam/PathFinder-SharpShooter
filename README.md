@@ -28,7 +28,7 @@ A two-layer chassis houses all components neatly, powered by 4 DC motors.
 - Servo Motor Control: Overcame PWM conflicts by integrating an additional PIC microcontroller.
 - Shooting Mechanism: Simplified with a custom DIY solution after testing multiple designs.
 
-##Results
+## Results
 The final prototype successfully demonstrated all desired functionalities.
 
 Video https://youtu.be/mEbk1Hov6x0?si=RZ11SYEL0I6_JYmZ
